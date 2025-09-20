@@ -1,2 +1,3 @@
 # ManojNaik
-This is my first github projrct
+This is my first github project
+author - Manoj M Naik
